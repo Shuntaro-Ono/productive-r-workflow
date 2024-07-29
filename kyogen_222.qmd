@@ -1,0 +1,42 @@
+---
+title: "狂言 - 「魚説経」、「濯ぎ川」-"
+format: 
+  html:
+    code-fold: true
+    code-summary: "Code"
+    toc: true
+    toc-location: left
+    toc-title: " "
+    number-sections: true
+date: 2024/08/04
+editor: visual
+execute:
+  echo: true
+  warning: false
+  message: false
+fig-cap-location: margin
+author:
+  name: "Shuntaro Ono"
+title-block-banner: "#f0f3f5"
+title-block-banner-color: "black"
+---
+
+# 魚説教
+
+## あらすじ
+
+現在の神戸近辺に暮らしていたとある漁師の男は、漁師という生業に疲れてしまい僧侶になる。そんな男がある日、ふと都見物をしてみたいということで上京する。一方、京都に暮らす別の男は最近建てた持仏堂の住職のなり手を探していた。そんな二人が道中偶然出会い、京都の男が僧侶になった男を持仏堂に案内する。案内されたところで早速お経を詠むように言われた男。お経など知る由もなく途方に暮れた男はあることを思い立つ、、
+
+## "創作御経"の抜粋
+
+いでいで鰆(<span style="color:red;">サワラ</span>)、説法を述べむと、烏賊(<span style="color:red;">イカ</span>)にも、鱸(<span style="color:red;">スズキ</span>)に煤けたる、黒鯛(<span style="color:red;">クロダイ</span>)の衣に、乾鮭(<span style="color:red;">シャ</span>ケ)色の袈裟を着し、水晶の数珠を蛤(ハマグリ</span>)、高麗鮫(<span style="color:red;">サメ</span>)の上へ、熨斗(<span style="color:red;">ノシ</span>)熨斗[^1]と鮠(<span style="color:red;">ハヤ/ハエ</span>)上がり、金海鼠(<span style="color:red;">キンコ</span>)を鳴らし、又鰐(<span style="color:red;">ワニ</span>)口を泥鰌(<span style="color:red;">ドジョウ</span>)泥鰌と打ち鳴らし、まず説法を鯣(スルメ)なり。
+
+[^1]: 熨斗鮑(ノシアワビ)は、アワビの肉を薄く剥ぎ、長く伸ばしたもの。古くは儀式用の肴に用い、のちに祝儀の贈り物に添える風習となった。現代、私たちが普段目にしている熨斗袋はこの風習の名残。
+
+ちょうじも早く鯊(<span style="color:red;">ハゼ</span>)集まり、心の海月(<span style="color:red;">クラゲ</span>)を赤鱏(<span style="color:red;">エイ</span>)にし、又鯱(<span style="color:red;">シャチ</span>)の如きも、鰻(<span style="color:red;">ウナギ</span>)の穴より出るが如く、ヌラヌラとして仏の御海苔(<span style="color:red;">ノリ</span>)を聴聞すべし。
+
+それ人間の果敢なき命は海老(<span style="color:red;">エビ</span>)の眼を力となし、海月(<span style="color:red;">くらげ</span>)が海に浮かみ漂うが如く、浮世を渡る人間世界なり。つつぎり敬っても魚(<span style="color:red;">ウオ</span>)、ちぬ鯛(<span style="color:red;">チヌダイ</span>)教主、鮭(<span style="color:red;">サケ</span>)鰤(<span style="color:red;">ブリ</span>)如来。鰤(<span style="color:red;">ブリ</span>)子の菩薩に申して申鯖(<span style="color:red;">サバ</span>)、鰈(<span style="color:red;">カレイ</span>)教を習うとも、鯰(<span style="color:red;">ナマズ</span>)には習うべからず。ただ鯉(<span style="color:red;">コイ</span>)願うところは、鮒(<span style="color:red;">フナ</span>)落世界へ、鯒(<span style="color:red;">コチ</span>)々と招ぜられたきなり。故に仏も、鮟鱇(<span style="color:red;">アンコウ</span>)の御海苔(<span style="color:red;">ノリ</span>)を成し給うも、これ皆小魚(<span style="color:red;">ウオ</span>)の為なれば、子たるもの、海鼠(<span style="color:red;">ナマコ</span>)、梭魚<span style="color:red;">カマス</span>)子、雑魚(<span style="color:red;">ザコ</span>)、鱚(<span style="color:red;">キス</span>)子、諸子(<span style="color:red;">モロコ</span>)、鰤(<span style="color:red;">ブリ</span>)子、金海鼠(<span style="color:red;">キンコ</span>)、鮞(<span style="color:red;">ハララゴ</span>)、煎海鼠(<span style="color:red;">イリコ</span>)、鮬(<span style="color:red;">セイゴ</span>)、かく大勢の数の子(<span style="color:red;">カズノコ</span>)も、親に対し鰊(<span style="color:red;">ニシン</span>)あらば、これ大いなる鱶(<span style="color:red;">フカ</span>)なり、誠に親の血引(<span style="color:red;">チビキ</span>)とて、糸よりの様な細き心にて、雨の魚(<span style="color:red;">アメノウオ</span>)の如く涙を鱈(<span style="color:red;">タラ</span>)々と流し、鮫(<span style="color:red;">サメ</span>)々と泣く。されば観音経の文に曰く、干鯛(<span style="color:red;">ヒダイ</span>)平らげ、海老(<span style="color:red;">エビ</span>)観音力とも説かれたり。又心経の文に曰く、あのく蛸(<span style="color:red;">タコ</span>)三百三文鯛(<span style="color:red;">タイ</span>)。鰊(<span style="color:red;">ニシン</span>)般若、鮑(<span style="color:red;">アワビ</span>)陀心経。
+
+今日の殺生これまでなり。雁木(<span style="color:red;">ガンギエイ</span>)河豚(<span style="color:red;">フグ</span>)毒、ぎちゅう一栄螺(<span style="color:red;">サザエ)</span>、鰹(<span style="color:red;">カツオ</span>)こしょ鯛(<span style="color:red;">コショウダイ</span>)ぐんりょう。生蛸(<span style="color:red;">タコ</span>)々々々々。鱧(<span style="color:red;">ハモ</span>)阿弥陀、鱧(<span style="color:red;">ハモ</span>)阿弥陀、鱧(<span style="color:red;">ハモ</span>)阿弥陀、、、
+
+鱧(<span style="color:red;">ハモ</span>)鮎(<span style="color:red;">アユ</span>)蛸(<span style="color:red;">タコ</span>)！
