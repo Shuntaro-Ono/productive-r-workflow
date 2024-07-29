@@ -1,5 +1,6 @@
 ---
-title: "狂言 - 「魚説経」、「濯ぎ川」-"
+title: "狂言"
+subtitle: "- 「魚説経」、「濯ぎ川」-"
 format: 
   html:
     code-fold: true
