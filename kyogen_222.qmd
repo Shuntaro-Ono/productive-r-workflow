@@ -3,12 +3,17 @@ title: "狂言"
 subtitle: "- 「魚説経」、「濯ぎ川」-"
 format: 
   html:
+    code-copy: true
     code-fold: true
     code-summary: "Code"
+    code-overflow: scroll
     toc: true
     toc-location: left
     toc-title: " "
     number-sections: true
+    embed-resources: true
+    anchor-sections: true
+    smooth-scroll: true
 date: 2024/08/04
 editor: visual
 execute:
