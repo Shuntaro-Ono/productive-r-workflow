@@ -8,7 +8,6 @@ format:
     code-copy: true
     code-fold: true
     code-overflow: scroll
-    embed-resources: true
     number-sections: true
     smooth-scroll: true
     toc: true
