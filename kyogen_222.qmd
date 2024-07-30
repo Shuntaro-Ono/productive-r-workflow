@@ -40,7 +40,7 @@ title-block-banner-color: "black"
 
 　それ人間の果敢なき命は海老([エビ]{style="color:red;"})の眼を力となし、海月([クラゲ]{style="color:red;"})が海に浮かみ漂うが如く、浮世を渡る人間世界なり。つつぎり敬っても魚([ウオ]{style="color:red;"})、ちぬ鯛([チヌダイ]{style="color:red;"})教主、鮭([サケ]{style="color:red;"})鰤([ブリ]{style="color:red;"})如来。鰤([ブリ]{style="color:red;"})子の菩薩に申して申鯖([サバ]{style="color:red;"})、鰈([カレイ]{style="color:red;"})教を習うとも、鯰([ナマズ]{style="color:red;"})には習うべからず。ただ鯉([コイ]{style="color:red;"})願うところは、鮒([フナ]{style="color:red;"})落世界へ、鯒([コチ]{style="color:red;"})々と招ぜられたきなり。
 
-　
+
 　故に仏も、鮟鱇([アンコウ]{style="color:red;"})の御海苔([ノリ]{style="color:red;"})を成し給うも、これ皆小魚([ウオ]{style="color:red;"})の為なれば、子たるもの、海鼠([ナマコ]{style="color:red;"})、梭魚([カマス]{style="color:red;"})子、雑魚([ザコ]{style="color:red;"})、鱚([キス]{style="color:red;"})子、諸子([モロコ]{style="color:red;"})、鰤([ブリ]{style="color:red;"})子、金海鼠([キンコ]{style="color:red;"})、鮞([ハララゴ]{style="color:red;"})、煎海鼠([イリコ]{style="color:red;"})、鮬([セイゴ]{style="color:red;"})、かく大勢の数の子([カズノコ]{style="color:red;"})も、親に対し鰊([ニシン]{style="color:red;"})あらば、これ大いなる鱶([フカ]{style="color:red;"})なり、誠に親の血引([チビキ]{style="color:red;"})とて、糸よりの様な細き心にて、雨の魚([アメノウオ]{style="color:red;"})の如く涙を鱈([タラ]{style="color:red;"})々と流し、鮫([サメ]{style="color:red;"})々と泣く。されば観音経の文に曰く、干鯛([ヒダイ]{style="color:red;"})平らげ、海老([エビ]{style="color:red;"})観音力とも説かれたり。又心経の文に曰く、あのく蛸([タコ]{style="color:red;"})三百三文鯛([タイ]{style="color:red;"})。鰊([ニシン]{style="color:red;"})般若、鮑([アワビ]{style="color:red;"})陀心経。
 
 
@@ -59,4 +59,5 @@ title-block-banner-color: "black"
 ## トリビア
 
 　作者は劇作家の飯沢匡で、16世紀フランス小咄「ル・キュヴィエ（洗濯桶）」をもとに新劇用に書いたものを、茂山家で狂言用にアレンジし、上演するようになりました。初演は、1953（昭和28）年、演出は、戦後の古典芸能の再興に尽力した武智鉄二が当たっています。
-　　狂言の世界では、明治時代以降に書かれた作品は全部「新作」に分類されます。いや、最早古典やんとツッコミたくなりますが、、
+
+　狂言の世界では、明治時代以降に書かれた作品は全部「新作」に分類されます。いや、最早古典やんとツッコミたくなりますが、、
