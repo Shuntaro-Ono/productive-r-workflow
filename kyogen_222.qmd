@@ -5,26 +5,20 @@ author:
   name: "Shuntaro Ono"
 format: 
   html:
-    anchor-sections: true
     code-copy: true
     code-fold: true
-    code-summary: "Code"
     code-overflow: scroll
     embed-resources: true
     number-sections: true
     smooth-scroll: true
     toc: true
     toc-location: left
-    toc-title: " "    
+    toc-title: Contents
+       
 date: 2024/08/04
 editor: visual
-execute:
-  echo: true
-  warning: false
-  message: false
-fig-cap-location: margin
 include-after-body: "footer.html"
-title-block-banner: "#f0f3f5"
+title-block-banner: "#70A9CF"
 title-block-banner-color: "black"
 ---
 
