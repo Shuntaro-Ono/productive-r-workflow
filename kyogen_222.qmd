@@ -5,6 +5,7 @@ author:
   name: "Shuntaro Ono"
 format: 
   html:
+    embed-resources: true
     code-copy: true
     code-fold: true
     code-overflow: scroll
