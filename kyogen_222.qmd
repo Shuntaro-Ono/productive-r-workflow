@@ -22,6 +22,12 @@ title-block-banner: "#70A9CF"
 title-block-banner-color: "black"
 ---
 
+<p style="text-align: center;">
+  <a href="https://www.instagram.com/shun_o_7" class="custom-instagram-icon">
+    <span  style="color:#833AB4">{{< fa brands instagram size=2x >}}</span>
+  </a>
+</p>
+
 # 魚説経
 
 ## あらすじ
@@ -53,6 +59,4 @@ title-block-banner-color: "black"
 　作者は劇作家の飯沢匡で、16世紀フランス小咄「ル・キュヴィエ（洗濯桶）」をもとに新劇用に書いたものを、茂山家で狂言用にアレンジし、上演するようになりました。初演は、1953（昭和28）年、演出は、戦後の古典芸能の再興に尽力した武智鉄二が当たっています。
 
 　狂言の世界では、明治時代以降に書かれた作品は全部「新作」に分類されます。いや、最早古典やんとツッコミたくなりますが、、
-
-
 
