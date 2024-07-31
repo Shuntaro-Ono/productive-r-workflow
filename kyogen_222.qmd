@@ -1,6 +1,7 @@
 ---
 title: "狂言"
 subtitle: "『魚説経』、『濯ぎ川』"
+pagetitle: "二二二_狂言"
 author:
   name: "Shuntaro Ono"
 format: 
@@ -14,7 +15,6 @@ format:
     toc: true
     toc-location: left
     toc-title: Contents
-       
 date: 2024/08/04
 editor: visual
 include-after-body: "footer.html"
