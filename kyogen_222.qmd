@@ -10,14 +10,15 @@ format:
     code-overflow: scroll
     number-sections: true
     smooth-scroll: true
-    toc: true
     toc-location: left
     toc-title: Contents
+    template-partials: 
+      - title-block.html
 date: 2024/08/04
 editor: visual
 include-after-body: "footer.html"
-title-block-banner: "#70A9CF"
-title-block-banner-color: "black"
+title-block-banner: true
+toc: true
 ---
 
 # ご挨拶
