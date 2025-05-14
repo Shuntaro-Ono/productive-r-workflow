@@ -1,0 +1,50 @@
+---
+title: "狂言/Kyogen"
+subtitle: "魚説経/Uozekkyou"
+pagetitle: "bonobo_狂言"
+format: 
+  html:
+    embed-resources: true
+    code-copy: true
+    code-fold: true
+    code-overflow: scroll
+    number-sections: true
+    smooth-scroll: true
+    toc-location: left
+    toc-title: Contents
+    template-partials: 
+      - title-block.html
+date: 2025/05/16
+editor: visual
+include-after-body: "footer.html"
+title-block-banner: true
+toc: true
+---
+
+# 魚説経
+
+## あらすじ
+
+　現在の神戸は須磨あたりに暮らすある漁師の男は、漁師という仕事に嫌気がさし僧侶になります。そんな男がある日、ふと都見物をしてみたいということで京都に行きます。一方、京都に暮らす別の男は最近建てたお寺の住職のなり手を探していました。そんな二人が道中偶然出会い、京都の男が僧侶になった男をお寺に案内します。案内されたところで早速説経(説法)をするように言われた男。説経など知る由もなく途方に暮れた男はあることを思い立ちます…
+
+## 説経の抜粋
+
+　いでいで鰆([サワラ](https://sushi.zukan-bouz.com/detail.php?id=1004){style="color:red;"})、説法を述べむと、烏賊([イカ](https://sushi.zukan-bouz.com/detail.php?id=1037){style="color:red;"})にも、鱸([スズキ](https://sushi.zukan-bouz.com/detail.php?id=711){style="color:red;"})に煤けたる、黒鯛([クロダイ](https://sushi.zukan-bouz.com/detail.php?id=877){style="color:red;"})の衣に、乾鮭([シャケ](https://www.zukan-bouz.com/syu/%E3%82%B5%E3%82%B1){style="color:red;"})色の袈裟を着し、水晶の数珠を蛤([ハマグリ](https://www.zukan-bouz.com/syu/%E3%83%8F%E3%83%9E%E3%82%B0%E3%83%AA){style="color:red;"})、高麗鮫([サメ](https://www.zukan-bouz.com/com/%E3%82%B5%E3%83%A1){style="color:red;"})の上へ、熨斗([ノシ]{style="color:red;"})熨斗[^1]と鮠([ハヤ/ハエ](https://www.zukan-bouz.com/syu/%E3%82%AA%E3%82%A4%E3%82%AB%E3%83%AF){style="color:red;"})上がり、金海鼠([キンコ](https://www.zukan-bouz.com/syu/%E3%82%AD%E3%83%B3%E3%82%B3){style="color:red;"})を鳴らし、又鰐口([ワニゴチ](https://www.zukan-bouz.com/syu/%E3%83%AF%E3%83%8B%E3%82%B4%E3%83%81){style="color:red;"})を泥鰌([ドジョウ](https://www.zukan-bouz.com/com/%E3%83%89%E3%82%B8%E3%83%A7%E3%82%A6){style="color:red;"})泥鰌と打ち鳴らし、まず説法を鯣([スルメ](https://www.zukan-bouz.com/syu/%E3%82%B9%E3%83%AB%E3%83%A1%E3%82%A4%E3%82%AB){style="color:red;"})なり。ちょうじも早く鯊([ハゼ](https://www.zukan-bouz.com/com/%E3%83%8F%E3%82%BC){style="color:red;"})集まり、心の海月([クラゲ](https://www.zukan-bouz.com/syu/%E3%83%93%E3%82%BC%E3%83%B3%E3%82%AF%E3%83%A9%E3%82%B2){style="color:red;"})を赤鱏([エイ](https://www.zukan-bouz.com/com/%E3%82%A8%E3%82%A4){style="color:red;"})にし、又鯱([シャチ]{style="color:red;"})[^2]の如きも、鰻([ウナギ](https://www.zukan-bouz.com/com/%E3%82%A6%E3%83%8A%E3%82%AE){style="color:red;"})の穴より出るが如く、ヌラヌラとして仏の御海苔([ノリ]{style="color:gray;"})を聴聞すべし。
+
+[^1]: 熨斗鮑(ノシアワビ)は、アワビの肉を薄く剥ぎ、長く伸ばしたもの。古くは儀式用の肴に用い、のちに祝儀の贈り物に添える風習となった。現代、私たちが普段目にしている熨斗袋はこの風習の名残。
+
+[^2]: 姿は魚で頭は虎、尾ひれは常に空を向き、背中には幾重もの鋭い棘を持っているという想像上の動物。しゃちほこで有名。
+
+　それ人間の果敢なき命は海老([エビ](https://sushi.zukan-bouz.com/detail.php?id=852){style="color:red;"})の眼を力となし、海月([クラゲ]{style="color:red;"})が海に浮かみ漂うが如く、浮世を渡る人間世界なり。つつぎり[^3]敬っても魚([ウオ]{style="color:gray;"})、ちぬ鯛([チヌダイ](https://www.zukan-bouz.com/syu/%E3%82%AF%E3%83%AD%E3%83%80%E3%82%A4){style="color:red;"})教主、鮭([サケ]{style="color:gray;"})鰤([ブリ](https://www.zukan-bouz.com/syu/%E3%83%96%E3%83%AA){style="color:red;"})如来。鰤([ブリ]{style="color:gray;"})子の菩薩に申して申鯖([サバ](https://www.zukan-bouz.com/com/%E3%82%B5%E3%83%90){style="color:red;"})、鰈([カレイ](https://www.zukan-bouz.com/com/%E3%82%AB%E3%83%AC%E3%82%A4){style="color:red;"})教を習うとも、鯰([ナマズ](https://www.zukan-bouz.com/com/%E3%83%8A%E3%83%9E%E3%82%BA){style="color:red;"})には習うべからず。ただ鯉([コイ]{style="color:red;"})願うところは、鮒([フナ](https://www.zukan-bouz.com/syu/%E3%83%8B%E3%82%B4%E3%83%AD%E3%83%96%E3%83%8A){style="color:red;"})落世界へ、鯒([コチ](https://www.zukan-bouz.com/syu/%E3%83%9E%E3%82%B4%E3%83%81){style="color:red;"})々と招ぜられたきなり。
+
+[^3]: 筒切り。魚の切り方の一つ。頭を落とし、そこから内臓を抜き出して洗った後、骨ごと輪切りにしたもの。コイ、サケ、アユ、ウナギなど胴の丸い魚に多く用いられる。
+
+　故に仏も、鮟鱇([アンコウ](https://sushi.zukan-bouz.com/detail.php?id=1154){style="color:red;"})の御海苔([ノリ]{style="color:gray;"})を成し給うも、これ皆小魚([ウオ]{style="color:gray;"})の為なれば、子たるもの、海鼠([ナマコ]{style="color:red;"})、梭魚([カマス](https://www.zukan-bouz.com/syu/%E3%82%A2%E3%82%AB%E3%82%AB%E3%83%9E%E3%82%B9){style="color:red;"})子、雑魚([ザコ]{style="color:red;"})、鱚([キス](https://www.zukan-bouz.com/syu/%E3%82%B7%E3%83%AD%E3%82%AE%E3%82%B9){style="color:red;"})子、諸子([モロコ](https://www.zukan-bouz.com/syu/%E3%83%9B%E3%83%B3%E3%83%A2%E3%83%AD%E3%82%B3){style="color:red;"})、鰤([ブリ]{style="color:red;"})子、金海鼠([キンコ]{style="color:red;"})、鮞([ハララゴ]{style="color:red;"})[^4]、炒子([イリコ]{style="color:red;"})[^5]、鮬([セイゴ](https://www.zukan-bouz.com/syu/%E3%82%B9%E3%82%BA%E3%82%AD){style="color:red;"})、かく大勢の数の子([カズノコ](https://sushi.zukan-bouz.com/detail.php?id=950){style="color:red;"})も、親に対し鰊([ニシン](https://www.zukan-bouz.com/syu/%E3%83%8B%E3%82%B7%E3%83%B3){style="color:red;"})あらば、これ大いなる鱶([フカ](https://www.zukan-bouz.com/syu/%E3%83%9B%E3%82%B7%E3%82%B6%E3%83%A1){style="color:red;"})なり、誠に親の血引([チビキ](https://sushi.zukan-bouz.com/detail.php?id=1220){style="color:red;"})とて、糸より([イトヨリダイ](https://www.zukan-bouz.com/syu/%E3%82%A4%E3%83%88%E3%83%A8%E3%83%AA%E3%83%80%E3%82%A4){style="color:red;"})の様な細き心にて、雨の魚([アメノウオ](https://www.zukan-bouz.com/syu/%E3%82%A2%E3%83%9E%E3%82%B4){style="color:red;"})の如く涙を鱈([タラ](https://www.zukan-bouz.com/com/%E3%82%BF%E3%83%A9){style="color:red;"})々と流し、鮫([サメ]{style="color:red;"})々と泣く。されば観音経の文に曰く、干鯛([ヒダイ](https://www.zukan-bouz.com/syu/%E3%83%98%E3%83%80%E3%82%A4){style="color:red;"})平らげ、海老([エビ]{style="color:gray;"})観音力とも説かれたり。又心経の文に曰く、あのく蛸([タコ](https://sushi.zukan-bouz.com/detail.php?id=970){style="color:red;"})三百三文鯛([タイ]{style="color:red;"})。鰊([ニシン]{style="color:red;"})般若、鮑([アワビ](https://www.zukan-bouz.com/syu/%E3%82%A2%E3%82%AB%E3%82%A2%E3%83%AF%E3%83%93){style="color:red;"})陀心経。
+
+[^4]: 魚卵のこと。特にサケの卵であるイクラを指す。
+
+[^5]: 煮干しのこと。
+
+　今日の殺生これまでなり。雁木([ガンギ](https://www.zukan-bouz.com/syu/%E3%82%BD%E3%82%B3%E3%82%AC%E3%83%B3%E3%82%AE%E3%82%A8%E3%82%A4){style="color:red;"})河豚([フグ](https://www.zukan-bouz.com/syu/%E3%83%88%E3%83%A9%E3%83%95%E3%82%B0){style="color:red;"})毒、ぎちゅう([ギギュウ](https://www.zukan-bouz.com/syu/%E3%82%AE%E3%82%AE#aka){style="color:red;"})一栄螺([サザエ](https://www.zukan-bouz.com/syu/%E3%82%B5%E3%82%B6%E3%82%A8){style="color:red;"})、鰹([カツオ](https://sushi.zukan-bouz.com/detail.php?id=719){style="color:red;"})こしょ鯛([コショウダイ](https://sushi.zukan-bouz.com/detail.php?id=863){style="color:red;"})ぐんりょう。生蛸([タコ]{style="color:gray;"})々々々々。鱧([ハモ](https://www.zukan-bouz.com/syu/%E3%83%8F%E3%83%A2){style="color:red;"})阿弥陀、鱧([ハモ]{style="color:gray;"})阿弥陀、鱧([ハモ]{style="color:gray;"})阿弥陀、、、鱧([ハモ]{style="color:gray;"})鮎([アユ](https://www.zukan-bouz.com/syu/%E3%82%A2%E3%83%A6){style="color:red;"})蛸([タコ]{style="color:gray;"})！
+
+------------------------------------------------------------------------
