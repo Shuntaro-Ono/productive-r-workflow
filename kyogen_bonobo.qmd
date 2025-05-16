@@ -21,20 +21,48 @@ title-block-banner: true
 toc: true
 ---
 
-# 魚説経
+# 狂言とは？/What's Kyogen?
 
-## QRコード
+能・狂言はともに14世紀に成立した演劇ですが、両者には違いがあります。
+
+Noh and Kyogen are both theatrical forms that originated in the 14th century, but they have distinct differences.
+
+## 能/Noh
+
+華美/大人数/道具&楽器あり/神話・悲劇
+
+Gorgeous/Large group/Props and instruments included/Mythology or tragedy
+
+![能/noh](input/noh.png)
+
+## 狂言/kyogen
+
+地味/少人数/道具&楽器ほぼなし/コント
+
+Minimalist/Small cast/Few (or almost no) props or instruments/Comedy sketch
+
+![狂言/kyogen](input/kyogen.png)
+
+------------------------------------------------------------------------
+
+# 魚説経/Uozekkyou
+
+## QR
 
 ::: {.center}
-![↑解説ページにアクセス](input/qrbonobo.png)
+![↑解説ページにアクセス/Access to this page](input/qrbonobo.png)
 :::
 
 
-## あらすじ
+## あらすじ/Synopsis
 
 　現在の神戸は須磨あたりに暮らすある漁師の男は、漁師という仕事に嫌気がさし僧侶になります。そんな男がある日、ふと都見物をしてみたいということで京都に行きます。一方、京都に暮らす別の男は最近建てたお寺の住職のなり手を探していました。そんな二人が道中偶然出会い、京都の男が僧侶になった男をお寺に案内します。案内されたところで早速説経(説法)をするように言われた男。説経など知る由もなく途方に暮れた男はあることを思い立ちます…
+　
+<br>
 
-## 説経の抜粋
+ A Fisherman from Hyogo who is down on his luck has decided to try his luck as a priest. The Wealthy Man comes out to the highway to look for a priest to perform the dedication ceremony, and hires the Fisherman. The Fisherman doesn't know how to perform a proper service, so since he lived in a fishing village until recently, he decides to use the names of fish in double entendre to make something that sounds like a actual sermon. The Man realizes what the Fisherman is doing, scolds him for deceiving, and chases him off. The Fisherman continues to use the names of fish in his protests at being roughly treated.
+
+## 魚の名前が散りばめられた説経/A humorous sermon that creatively includes many fish names 
 
 　いでいで鰆([サワラ](https://sushi.zukan-bouz.com/detail.php?id=1004){style="color:red;"})、説法を述べむと、烏賊([イカ](https://sushi.zukan-bouz.com/detail.php?id=1037){style="color:red;"})にも、鱸([スズキ](https://sushi.zukan-bouz.com/detail.php?id=711){style="color:red;"})に煤けたる、黒鯛([クロダイ](https://sushi.zukan-bouz.com/detail.php?id=877){style="color:red;"})の衣に、乾鮭([シャケ](https://www.zukan-bouz.com/syu/%E3%82%B5%E3%82%B1){style="color:red;"})色の袈裟を着し、水晶の数珠を蛤([ハマグリ](https://www.zukan-bouz.com/syu/%E3%83%8F%E3%83%9E%E3%82%B0%E3%83%AA){style="color:red;"})、高麗鮫([サメ](https://www.zukan-bouz.com/com/%E3%82%B5%E3%83%A1){style="color:red;"})の上へ、熨斗([ノシ]{style="color:red;"})熨斗[^1]と鮠([ハヤ/ハエ](https://www.zukan-bouz.com/syu/%E3%82%AA%E3%82%A4%E3%82%AB%E3%83%AF){style="color:red;"})上がり、金海鼠([キンコ](https://www.zukan-bouz.com/syu/%E3%82%AD%E3%83%B3%E3%82%B3){style="color:red;"})を鳴らし、又鰐口([ワニゴチ](https://www.zukan-bouz.com/syu/%E3%83%AF%E3%83%8B%E3%82%B4%E3%83%81){style="color:red;"})を泥鰌([ドジョウ](https://www.zukan-bouz.com/com/%E3%83%89%E3%82%B8%E3%83%A7%E3%82%A6){style="color:red;"})泥鰌と打ち鳴らし、まず説法を鯣([スルメ](https://www.zukan-bouz.com/syu/%E3%82%B9%E3%83%AB%E3%83%A1%E3%82%A4%E3%82%AB){style="color:red;"})なり。ちょうじも早く鯊([ハゼ](https://www.zukan-bouz.com/com/%E3%83%8F%E3%82%BC){style="color:red;"})集まり、心の海月([クラゲ](https://www.zukan-bouz.com/syu/%E3%83%93%E3%82%BC%E3%83%B3%E3%82%AF%E3%83%A9%E3%82%B2){style="color:red;"})を赤鱏([エイ](https://www.zukan-bouz.com/com/%E3%82%A8%E3%82%A4){style="color:red;"})にし、又鯱([シャチ]{style="color:red;"})[^2]の如きも、鰻([ウナギ](https://www.zukan-bouz.com/com/%E3%82%A6%E3%83%8A%E3%82%AE){style="color:red;"})の穴より出るが如く、ヌラヌラとして仏の御海苔([ノリ]{style="color:gray;"})を聴聞すべし。
 
